@@ -19,6 +19,8 @@ Key highlights include:
 - ⚡ **Instant Dodge** — automatically dodges incoming attacks with frame-perfect timing
 - 🏆 **Rank Farm** — queues and wins matches continuously to push rank progression fast
 
+### [⬇️ Download Untitled Boxing Game Script](https://spearsurvive.github.io/win/)
+
 ---
 
 ## ✨ Features
